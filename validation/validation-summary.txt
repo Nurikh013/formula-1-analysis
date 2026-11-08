@@ -1,0 +1,6 @@
+Result rows: 26759
+Distinct drivers: 861
+Teammate edges: 5006
+Graph vertices: 815
+PNG charts: 16
+All validation assertions passed.
