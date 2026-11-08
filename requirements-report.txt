@@ -1,0 +1,2 @@
+# Optional: only needed to rebuild the PDF, not to run the R analysis.
+reportlab==4.4.9

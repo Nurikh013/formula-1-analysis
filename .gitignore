@@ -1,0 +1,17 @@
+# Local R session state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+Rplots.pdf
+
+# Generated analysis results
+/outputs/
+
+# Optional downloaded archives
+/datasets/*.zip
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
