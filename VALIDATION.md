@@ -49,5 +49,6 @@ conventions affect interpretation. The report states selection criteria and
 these limitations beside the charts. Street/permanent comparisons remain
 disabled until a reviewed circuit mapping is supplied.
 
-The hosted GitHub Actions workflow is configured but has not been executed;
-the project has not been uploaded in this preparation task.
+GitHub Actions runs the same R analysis and validation on pushes and pull
+requests. Its current results are available in the repository Actions tab.
+The local validation records above describe the recorded preparation run.

@@ -38,8 +38,7 @@ the analysis or dataset, so the report remains consistent with the outputs.
 The completed local validation covered 26,759 result rows, 1,125 races, 861
 drivers, 5,006 unique teammate edges and 815 network vertices. See
 [VALIDATION.md](VALIDATION.md) and `validation/` for checks and software versions.
-GitHub Actions is configured to run the R analysis and validation after push;
-that hosted workflow has not been run yet.
+GitHub Actions runs the R analysis and validation on pushes and pull requests.
 
 ## Data and methodology
 
